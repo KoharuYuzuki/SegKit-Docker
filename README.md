@@ -46,6 +46,9 @@ $ exit
 $ docker-compose down
 ```
 
+`julius_lab`にはJuliusスタイルのラベルが生成されます  
+`openjtalk_lab`にはOpenJTalkスタイルのラベルが生成されます (julius_labから変換されたものです)  
+
 ### Tips
 0バイトのラベルが生成される場合、セグメンテーションに失敗しています  
 詳細は`log`ディレクトリを確認してください  
